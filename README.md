@@ -42,6 +42,7 @@ I'm an Information Security student at **Ho Chi Minh City University of Technolo
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Dondtr)
 [![Dreamhack](https://img.shields.io/badge/Dreamhack-1E40AF?style=for-the-badge)](https://dreamhack.io/users/101764)
+[![PentesterLab](https://img.shields.io/badge/PentesterLab-2B2B2B?style=for-the-badge)](https://pentesterlab.com/profile/dontr)
 <!--
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/101764)
 -->
